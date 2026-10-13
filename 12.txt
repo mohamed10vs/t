@@ -1,0 +1,1 @@
+powershell -Command "Get-MpComputerStatus | Select RealTimeProtectionEnabled, AntivirusEnabled"
